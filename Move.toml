@@ -1,0 +1,14 @@
+[package]
+name = "token_vault"
+version = "0.0.0"
+
+[addresses]
+MyModule = "0x361bce4063746265a0d62f341ac1bb526a49fe5448c7e1bc2836030491520b2c"
+
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
