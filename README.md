@@ -38,3 +38,26 @@ TokenVault aims to be the **foundation for decentralized savings, staking, and t
 ---
 
 ## 📍 5. Contract Address
+
+Transaction submitted: https://explorer.aptoslabs.com/txn/0x69ade3c2e69454c1ee5f779751eba5b1904631dd1b3a0b324b7ab47b40a5b719?network=devnet
+```
+{
+  "Result": {
+    "transaction_hash": "0x69ade3c2e69454c1ee5f779751eba5b1904631dd1b3a0b324b7ab47b40a5b719",
+    "gas_used": 81,
+    "gas_unit_price": 100,
+    "sender": "361bce4063746265a0d62f341ac1bb526a49fe5448c7e1bc2836030491520b2c",
+    "sequence_number": 1,
+    "replay_protector": {
+      "SequenceNumber": 1
+    },
+    "success": true,
+    "timestamp_us": 1754653358107851,
+    "version": 28602768,
+    "vm_status": "Executed successfully"
+  }
+}
+
+```
+<img width="1470" height="956" alt="Screenshot 2025-08-08 at 5 17 14 PM" src="https://github.com/user-attachments/assets/5ca928f6-703d-40f0-841f-5dd7893cdbaf" />
+
